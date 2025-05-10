@@ -1,0 +1,30 @@
+#s1 {
+  background-color: rgb(166, 117, 226);
+}
+* {
+  border-radius: 5px;
+  text-align: center;
+  color: rgb(59, 59, 59);
+}
+.btns td input{
+  width: 100%;
+  height: 100%;
+}
+
+.btns td input:hover{
+  background-color: rgb(104, 186, 237);
+  font-size: 1.2em;
+}
+td {
+  background-color: rgb(104, 186, 237);
+  height: 50px;
+  width: 50px;
+
+}
+
+#s2 {
+  background-color: rgb(91, 73, 207);
+}
+#s3 {
+  background-color: rgb(179, 110, 215);
+}
